@@ -27,7 +27,7 @@
 5. **Add Environment Variables** (click "Add Secret File"):
    ```
    PORT=5000
-   MONGODB_URI=mongodb+srv://chakriaugust2006_db_user:cILWVRlk6pZ05L1w@cluster0.yfcj4lh.mongodb.net/marketplace
+   MONGODB_URI
    JWT_SECRET=super_secret_jwt_key_change_in_production_12345
    NODE_ENV=production
    ```
