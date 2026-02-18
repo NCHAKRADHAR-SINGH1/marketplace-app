@@ -2,7 +2,7 @@
 
 ## Prerequisites
 - GitHub repository pushed (✅ Done)
-- MongoDB Atlas account with connection string (✅ Have: `mongodb+srv://chakriaugust2006_db_user:cILWVRlk6pZ05L1w@cluster0.yfcj4lh.mongodb.net/marketplace`)
+- MongoDB Atlas account with connection string (✅ Have: ``)
 
 ---
 
